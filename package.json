@@ -1,0 +1,15 @@
+{
+  "name": "first-server-express",
+  "version": "1.0.0",
+  "description": "First Express.js Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "author": "Ely Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
